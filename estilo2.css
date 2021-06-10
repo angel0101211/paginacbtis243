@@ -1,0 +1,62 @@
+body{
+	background-color: #8D5FED ;
+}
+#uno{
+	background-color: #5FEDDF;
+	width:1200px;
+	height: 300px;
+}
+#dos{
+	background-color: #5DD91C;
+	margin-top:0px;
+	margin-bottom: px;
+	margin-right: px;
+	margin-left: px,
+	width:px;
+	height: px;
+
+}
+#primerodentro{
+	background-color:red;
+	width: px;
+	height: px;
+	float: left;
+	margin-right: px;
+	margin-top: px;
+
+	
+}
+#segundodentro{
+	background-color: blue;
+	width: 350px;
+	height: 160px;
+	float: left;
+	margin-right: 50px;
+	margin-top: 30px;
+	
+}
+#tercerodentro{
+	background-color: yellow;
+	width: 350px;
+	height:160px;
+	float:left;
+	margin-top: 30px;
+
+}
+#cuartodentro{
+	background-color: white;
+	width: 1100px;
+	height: 300px;
+	margin-left: 10px;
+	margin-right: 800px;
+}
+#tres{
+	background-color: green;
+	width: 
+	height:;
+	margin-right: 
+	margin-top:;
+	margin-left:;
+	margin-bottom:;
+
+}

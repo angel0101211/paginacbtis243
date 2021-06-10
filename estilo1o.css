@@ -1,0 +1,17 @@
+*{
+	background-color: white;
+	margin: 0px;
+	padding: 0px;
+}
+
+div#uno{
+	width: 200px;
+	height: 700
+	background-color:#12EE2C;
+}
+
+div#dos{
+	width: 800px;
+	height: 200px;
+	background-color: black;
+}

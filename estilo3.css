@@ -1,0 +1,49 @@
+body{
+	background-color: black
+}
+#uno{
+	background-color: blue;
+	width: 1200px;
+	height: 100px;
+}
+#dos{
+	background-color: #41E91A;
+	width: 1200px;
+	height: 300px;
+	margin-top: 50px;
+}
+#div1{
+	background-color: orange;
+	width: 200px;
+	height: 300px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	float: left;
+}
+#div2{
+	background-color: green;
+	width: 800px;
+	height: 300px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	float: left;
+}
+#div3a{
+	background-color: purple;
+	width: 200px;
+	height: 300px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	float: left;
+}
+#div3b{
+	background-color: blue;
+	width: 1200px;
+	height: 100px;
+}

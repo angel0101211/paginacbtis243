@@ -1,0 +1,40 @@
+body{
+	background-color: black;
+}
+#uno{
+	background-color: red;
+	width: 1200px;
+	height: 100px;
+}
+#dos{
+	background-color: green;
+	width: 1200px;
+	height: 300px;
+	margin-top: 20px;
+}
+#dosb{
+	background-color: #731AE9
+	width:900px;
+	height: 300px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	float: left;
+}
+#dosa{
+	background-color: orange;
+	width: 300px;
+	height: 300px;
+	margin-top: 0px
+	margin-bottom:0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	float: right;
+}
+#tres{
+	background-color: red;
+	width: 1200px;
+	height: 100px;
+
+}

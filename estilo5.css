@@ -1,0 +1,29 @@
+body{// el fondo de la pagina
+	background-color:#4642B8;
+	padding: 150px;
+	font-family: Arial;
+}
+
+#menu{//el div que contiene la lista
+	background-color: blue;
+}
+
+#menu ul{//la lista del div
+	list-style: none;/*elimina los puntos de viñetas*/
+	margin: 0px;
+	padding: 0px;
+}
+
+#menu ul li{
+	display: inline-block;//para que la lista se ordene en filas
+}
+
+#menu ul li a{
+	color: green;
+	padding: 20px;
+	text-decoration: none;
+}
+
+#menu ul li a:hover{
+	background-color: #41E91A;
+}

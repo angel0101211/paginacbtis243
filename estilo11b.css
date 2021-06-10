@@ -1,0 +1,111 @@
+body{
+	background-color: #12D9EE;
+	font-size: Arial;
+}
+
+div#titulo{
+	width: 100%;
+	margin-top: 0px;
+}
+p#header{
+	text-align: center;
+	font-size: 2.5em;
+	color: green;
+}
+p#subheader{
+	text-align: center;
+	margin-top: 20px;
+	font-size: 1.3em;
+	color: green;
+}
+header{
+	margin-top:50px;
+	width: 1000px;
+	height: 0px;
+	background-color:blue;
+	margin-right: 0px;
+	margin-left: 0px;}
+
+#menu{
+	background-color: black;
+	width: 1000px;
+	height: 60px;
+	margin-left: 230px;
+	margin-right: 0px;
+	
+}
+
+#menu ul{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+#menu ul li{
+	display: inline-block;
+}
+
+#menu ul li a{
+	color: purple;
+	display: block;
+	padding: 20px;
+	text-decoration: none;
+}
+
+#menu ul li a:hover{
+	background-color:#52DB2B ;
+}
+
+div#uno{
+	background-color: green;
+	width: 200px;
+	height: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+p.a{
+	font-size: Arial;
+	font-size: 1.9em;
+	color:black;
+	text-align: center;
+}
+
+p.texto1{
+	font-size: Arial;
+	color: black;
+	text-align: left;
+	font-size: 1.3em;
+}
+
+div#dos{
+	background-color: #12B0EE;
+	width: 900px;
+	height: 900px;
+	margin-top: 0px;
+	margin-left:200px;
+	margin-right:0px;
+	margin-bottom: 0px;
+}
+
+p.texto2{
+	font-size: :Arial;
+	color: black;
+	font-size: 1.1em;
+}
+
+div#cuatro{
+	background-color:#12EE68;
+	width: 900px;
+	height: 500px;
+	margin-top: 0px;
+	margin-left: 200px;
+}
+img#b{
+	margin-left:390px;
+}
+img#c{
+	margin-left: 500px;
+	margin-top: 0px;
+	width: 400px;
+	height: 300px;
+}
